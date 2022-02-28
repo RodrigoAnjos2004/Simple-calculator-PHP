@@ -125,7 +125,7 @@
                 case 'SUBTRAIR':
                     echo $result1 - $result2;
                     break;
-                case 'MULITPLICAR':
+                case 'MULTIPLICAR':
                     echo $result1 * $result2;
                     break;
                 case 'DIVIDIR':
